@@ -1,0 +1,178 @@
+=== scripts/05_chunking.py | 2026-06-06 01:24:06 ===
+Обрано 30 статей. Довжина анотацій: 1910–2661 символів
+Fixed чанків: 122 | Semantic чанків: 71
+Створюю індекс 'arxiv-chunks-fixed'...
+Створюю індекс 'arxiv-chunks-semantic'...
+
+Завантажуємо fixed чанки...
+  Обчислюємо ембеддинги для 122 чанків...
+
+Завантажуємо semantic чанки...
+  Обчислюємо ембеддинги для 71 чанків...
+
+================================================================================
+РЕЗУЛЬТАТИ ПОШУКУ
+================================================================================
+
+[arxiv-chunks-fixed] Запит: 'neural networks for image classification'
+  1. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 1)
+     a still challenging work. In this paper, the capsule network (CapsNet) architecture based visual reconstruction (CNAVR) method is developed to reconstruct image stimuli. The capsule means containing a...
+     Схожість: 0.8536
+  2. BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image
+  Segmentation (чанк 0)
+     Accurate medical image segmentation is essential for clinical quantification, disease diagnosis, treatment planning and many other applications. Both convolution-based and transformer-based u-shaped a...
+     Схожість: 0.8494
+  3. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 0)
+     In neuroscience, all kinds of computation models were designed to answer the open question of how sensory stimuli are encoded by neurons and conversely, how sensory stimuli can be decoded from neurona...
+     Схожість: 0.8493
+  4. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 2)
+     features to bridge between human fMRI and image stimuli. We firstly employed the CapsNet to train the nonlinear mapping from image stimuli to high-level capsule features, and from high-level capsule f...
+     Схожість: 0.8418
+  5. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 3)
+     and reconstruct image stimuli with the CapsNet. We evaluated the proposed CNAVR method on the dataset of handwritten digital images, and exceeded about 10% than the accuracy of all existing state-of-t...
+     Схожість: 0.8294
+
+[arxiv-chunks-semantic] Запит: 'neural networks for image classification'
+  1. BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image
+  Segmentation (чанк 0)
+     Accurate medical image segmentation is essential for clinical quantification,
+disease diagnosis, treatment planning and many other applications. Both
+convolution-based and transformer-based u-shaped a...
+     Схожість: 0.8579
+  2. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 0)
+     In neuroscience, all kinds of computation models were designed to answer the
+open question of how sensory stimuli are encoded by neurons and conversely, how
+sensory stimuli can be decoded from neurona...
+     Схожість: 0.8529
+  3. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 1)
+     The high-level capsule features in the CapsNet includes
+diverse features of image stimuli such as semantic class, orientation, location
+and so on. We used these features to bridge between human fMRI a...
+     Схожість: 0.8407
+  4. DEWP: Deep Expansion Learning for Wind Power Forecasting (чанк 1)
+     DEWP starts with a stack-by-stack
+architecture, where each stack is composed of (i) a variable expansion block
+that makes use of convolutional layers to capture dependencies among multiple
+variables; ...
+     Схожість: 0.8013
+  5. Consistent Classification Algorithms for Multi-class Non-Decomposable
+  Performance Metrics (чанк 0)
+     We study consistency of learning algorithms for a multi-class performance
+metric that is a non-decomposable function of the confusion matrix of a
+classifier and cannot be expressed as a sum of losses ...
+     Схожість: 0.7834
+--------------------------------------------------------------------------------
+
+[arxiv-chunks-fixed] Запит: 'natural language processing with transformers'
+  1. BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image
+  Segmentation (чанк 3)
+     respectively....
+     Схожість: 0.7994
+  2. DEWP: Deep Expansion Learning for Wind Power Forecasting (чанк 3)
+     process stack-by-stack outputs. Finally, we present extensive experiments in the real-world wind power forecasting application on two datasets from two different turbines to demonstrate the effectiven...
+     Схожість: 0.7914
+  3. Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with
+  Self-Rectified Knowledge Agglomeration (чанк 3)
+     requirements of EECC....
+     Схожість: 0.7874
+  4. DEWP: Deep Expansion Learning for Wind Power Forecasting (чанк 2)
+     Fourier series and backcast/forecast mechanism to learn temporal dependencies in sequential patterns. These two tailored blocks expand raw inputs into different latent feature spaces which can model d...
+     Схожість: 0.7817
+  5. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 2)
+     features to bridge between human fMRI and image stimuli. We firstly employed the CapsNet to train the nonlinear mapping from image stimuli to high-level capsule features, and from high-level capsule f...
+     Схожість: 0.7703
+
+[arxiv-chunks-semantic] Запит: 'natural language processing with transformers'
+  1. DEWP: Deep Expansion Learning for Wind Power Forecasting (чанк 1)
+     DEWP starts with a stack-by-stack
+architecture, where each stack is composed of (i) a variable expansion block
+that makes use of convolutional layers to capture dependencies among multiple
+variables; ...
+     Схожість: 0.7669
+  2. BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image
+  Segmentation (чанк 0)
+     Accurate medical image segmentation is essential for clinical quantification,
+disease diagnosis, treatment planning and many other applications. Both
+convolution-based and transformer-based u-shaped a...
+     Схожість: 0.7607
+  3. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 1)
+     The high-level capsule features in the CapsNet includes
+diverse features of image stimuli such as semantic class, orientation, location
+and so on. We used these features to bridge between human fMRI a...
+     Схожість: 0.7596
+  4. Group Colorings and Bernoulli Subflows (чанк 2)
+     As a special case of such marker structures, we study the notion of ccc groups
+and prove the ccc-ness for countable nilpotent, polycyclic, residually finite,
+locally finite groups and for free product...
+     Схожість: 0.7582
+  5. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 0)
+     In neuroscience, all kinds of computation models were designed to answer the
+open question of how sensory stimuli are encoded by neurons and conversely, how
+sensory stimuli can be decoded from neurona...
+     Схожість: 0.7567
+--------------------------------------------------------------------------------
+
+[arxiv-chunks-fixed] Запит: 'reinforcement learning in robotics'
+  1. Toward Pareto Efficient Fairness-Utility Trade-off inRecommendation
+  through Reinforcement Learning (чанк 2)
+     current business needs. Therefore, in this work, we propose a fairness-aware recommendation framework using multi-objective reinforcement learning, called MoFIR, which is able to learn a single parame...
+     Схожість: 0.7905
+  2. A Machine Learning Approach to Adaptive Covariance Localization (чанк 3)
+     the second algorithm tunes the localization radius in both time and space. Numerical experiments carried out with the Lorenz-96 model, and a quasi-geostrophic model, reveal the potential of the propos...
+     Схожість: 0.7905
+  3. BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image
+  Segmentation (чанк 3)
+     respectively....
+     Схожість: 0.7870
+  4. What Is a Causal Effect When Firms Interact? Counterfactuals and Interdependence (чанк 3)
+     research in interdependent economic environments...
+     Схожість: 0.7823
+  5. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 0)
+     In neuroscience, all kinds of computation models were designed to answer the open question of how sensory stimuli are encoded by neurons and conversely, how sensory stimuli can be decoded from neurona...
+     Схожість: 0.7806
+
+[arxiv-chunks-semantic] Запит: 'reinforcement learning in robotics'
+  1. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 0)
+     In neuroscience, all kinds of computation models were designed to answer the
+open question of how sensory stimuli are encoded by neurons and conversely, how
+sensory stimuli can be decoded from neurona...
+     Схожість: 0.7799
+  2. Toward Pareto Efficient Fairness-Utility Trade-off inRecommendation
+  through Reinforcement Learning (чанк 1)
+     Moreover, considering the
+needs of real-world e-commerce platforms, it would be more desirable if we can
+generalize the whole Pareto Frontier, so that the decision-makers can specify
+any preference of...
+     Схожість: 0.7676
+  3. Numerical investigation of controlling interfacial instabilities in
+  non-standard Hele-Shaw configurations (чанк 2)
+     Further, we demonstrate how the
+fully nonlinear dynamics of the problem affect the number of fingers that
+emerge and how well this number agrees with predictions from linear stability
+analysis....
+     Схожість: 0.7669
+  4. A Machine Learning Approach to Adaptive Covariance Localization (чанк 1)
+     To alleviate this
+effect covariance localization dampens spurious correlations between state
+variables located at a large distance in the physical space, via an empirical
+distance-dependent function. ...
+     Схожість: 0.7648
+  5. Accurate reconstruction of image stimuli from human fMRI based on the
+  decoding model with capsule network architecture (чанк 1)
+     The high-level capsule features in the CapsNet includes
+diverse features of image stimuli such as semantic class, orientation, location
+and so on. We used these features to bridge between human fMRI a...
+     Схожість: 0.7495
+--------------------------------------------------------------------------------
+=== Завершено: 2026-06-06 01:24:56 | exit 0 ===
