@@ -1,0 +1,156 @@
+=== scripts/04_search.py | 2026-06-06 01:23:51 ===
+Пошук за запитом: 'teaching machines to recognize objects in pictures'
+Butterfly Detection and Classification Based on Integrated YOLO
+  Algorithm
+рік: 2020.0, категорія: cs.CV
+Абстракт: Insects are abundant species on the earth, and the task of identification and
+identification of insects is complex and arduous. How to apply artificial
+intelligence technology and digital image proces...
+Нормалізована схожість: 0.8526
+--------------------------------------------------------------------------------
+Hierarchical Explanations for Video Action Recognition
+рік: 2023.0, категорія: cs.CV
+Абстракт: To interpret deep neural networks, one main approach is to dissect the visual
+input and find the prototypical parts responsible for the classification.
+However, existing methods often ignore the hiera...
+Нормалізована схожість: 0.8440
+--------------------------------------------------------------------------------
+A Novel Approach using CapsNet and Deep Belief Network for Detection and
+  Identification of Oral Leukopenia
+рік: 2025.0, категорія: eess.IV
+Абстракт: Oral cancer constitutes a significant global health concern, resulting in
+277,484 fatalities in 2023, with the highest prevalence observed in low- and
+middle-income nations. Facilitating automation in...
+Нормалізована схожість: 0.8419
+--------------------------------------------------------------------------------
+Handwritten Optical Character Recognition (OCR): A Comprehensive
+  Systematic Literature Review (SLR)
+рік: 2020.0, категорія: cs.CV
+Абстракт: Given the ubiquity of handwritten documents in human transactions, Optical
+Character Recognition (OCR) of documents have invaluable practical worth.
+Optical character recognition is a science that ena...
+Нормалізована схожість: 0.8385
+--------------------------------------------------------------------------------
+An Improved Intelligent Agent for Mining Real-Time Databases Using
+  Modified Cortical Learning Algorithms
+рік: 2016.0, категорія: cs.NE
+Абстракт: Cortical Learning Algorithms based on the Hierarchical Temporal Memory, HTM
+have been developed by Numenta Incorporation from which variations and
+modifications are currently being investigated upon. ...
+Нормалізована схожість: 0.8380
+--------------------------------------------------------------------------------
+
+=== Приклад A ===
+Пошук статей після 2021 року, категорія cs.LG...
+Operator Deep Q-Learning: Zero-Shot Reward Transferring in Reinforcement
+  Learning
+рік: 2022.0, категорія: cs.LG
+Абстракт: Reinforcement learning (RL) has drawn increasing interests in recent years
+due to its tremendous success in various applications. However, standard RL
+algorithms can only be applied for single reward ...
+Нормалізована схожість: 0.8466
+--------------------------------------------------------------------------------
+Toward Causal-Aware RL: State-Wise Action-Refined Temporal Difference
+рік: 2022.0, категорія: cs.LG
+Абстракт: Although it is well known that exploration plays a key role in Reinforcement
+Learning (RL), prevailing exploration strategies for continuous control tasks
+in RL are mainly based on naive isotropic Gau...
+Нормалізована схожість: 0.8434
+--------------------------------------------------------------------------------
+On the Challenges of using Reinforcement Learning in Precision Drug
+  Dosing: Delay and Prolongedness of Action Effects
+рік: 2023.0, категорія: cs.LG
+Абстракт: Drug dosing is an important application of AI, which can be formulated as a
+Reinforcement Learning (RL) problem. In this paper, we identify two major
+challenges of using RL for drug dosing: delayed an...
+Нормалізована схожість: 0.8348
+--------------------------------------------------------------------------------
+Reinforcement Learning for Flexibility Design Problems
+рік: 2021.0, категорія: cs.LG
+Абстракт: Flexibility design problems are a class of problems that appear in strategic
+decision-making across industries, where the objective is to design a ($e.g.$,
+manufacturing) network that affords flexibil...
+Нормалізована схожість: 0.8313
+--------------------------------------------------------------------------------
+Can Optimal Transport Improve Federated Inverse Reinforcement Learning?
+рік: 2026.0, категорія: cs.LG
+Абстракт: In robotics and multi-agent systems, fleets of autonomous agents often operate in subtly different environments while pursuing a common high-level objective. Directly pooling their data to learn a sha...
+Нормалізована схожість: 0.8309
+--------------------------------------------------------------------------------
+
+=== Приклад B ===
+Пошук статей до 2015 року, будь-яка категорія...
+Evolving Neural Networks with Iterative Learning Scheme for Associative
+  Memory
+рік: 1995.0, категорія: adap-org
+Абстракт: A locally iterative learning (LIL) rule is adapted to a model of the
+associative memory based on the evolving recurrent-type neural networks
+composed of growing neurons. There exist extremely differen...
+Нормалізована схожість: 0.8251
+--------------------------------------------------------------------------------
+Policy Evaluation with Variance Related Risk Criteria in Markov Decision
+  Processes
+рік: 2013.0, категорія: cs.LG
+Абстракт: In this paper we extend temporal difference policy evaluation algorithms to
+performance criteria that include the variance of the cumulative reward. Such
+criteria are useful for risk management, and a...
+Нормалізована схожість: 0.8215
+--------------------------------------------------------------------------------
+Learning from Mistakes
+рік: 1997.0, категорія: adap-org
+Абстракт: A simple model of self-organised learning with no classical (Hebbian)
+reinforcement is presented. Synaptic connections involved in mistakes are
+depressed. The model operates at a highly adaptive, prob...
+Нормалізована схожість: 0.8187
+--------------------------------------------------------------------------------
+Defining and composing big state machines
+рік: 2015.0, категорія: cs.FL
+Абстракт: A sequence function alternative representation of state machines....
+Нормалізована схожість: 0.8137
+--------------------------------------------------------------------------------
+The Local Optimality of Reinforcement Learning by Value Gradients, and
+  its Relationship to Policy Gradient Learning
+рік: 2011.0, категорія: cs.LG
+Абстракт: In this theoretical paper we are concerned with the problem of learning a
+value function by a smooth general function approximator, to solve a
+deterministic episodic control problem in a large continu...
+Нормалізована схожість: 0.8127
+--------------------------------------------------------------------------------
+
+=== Порівняння метрик ===
+
+=== Локально порівнюємо метрики для: "teaching machines to recognize objects in pictures" ===
+
+  -- cosine (спад.) --
+    1. [3885] Butterfly Detection and Classification Based on Integrated YOLO
+  Algorithm
+    2. [5232] A Novel Approach using CapsNet and Deep Belief Network for Detection and
+  Ident
+    3. [4608] Hierarchical Explanations for Video Action Recognition
+    4. [3666] Handwritten Optical Character Recognition (OCR): A Comprehensive
+  Systematic Li
+    5. [2679] An Improved Intelligent Agent for Mining Real-Time Databases Using
+  Modified Co
+
+  -- dot product (спад.) --
+    1. [3885] Butterfly Detection and Classification Based on Integrated YOLO
+  Algorithm
+    2. [5232] A Novel Approach using CapsNet and Deep Belief Network for Detection and
+  Ident
+    3. [4608] Hierarchical Explanations for Video Action Recognition
+    4. [3666] Handwritten Optical Character Recognition (OCR): A Comprehensive
+  Systematic Li
+    5. [2679] An Improved Intelligent Agent for Mining Real-Time Databases Using
+  Modified Co
+
+  -- L2 distance (зрост.) --
+    1. [3885] Butterfly Detection and Classification Based on Integrated YOLO
+  Algorithm
+    2. [5232] A Novel Approach using CapsNet and Deep Belief Network for Detection and
+  Ident
+    3. [4608] Hierarchical Explanations for Video Action Recognition
+    4. [3666] Handwritten Optical Character Recognition (OCR): A Comprehensive
+  Systematic Li
+    5. [2679] An Improved Intelligent Agent for Mining Real-Time Databases Using
+  Modified Co
+=== Завершено: 2026-06-06 01:24:06 | exit 0 ===
